@@ -7,23 +7,17 @@ chapter: false
 
 # Internship Report
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
 ### Student Information:
 
-&emsp; **Full Name:** Nguyen Van A
+&emsp; **Full Name:** Le Sy Tuyen
 
-&emsp; **Phone Number:** 0989888999
+&emsp; **Phone Number:** 0844611668
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** hatospapal@gmail.com
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** FPTU - HCMC
 
-&emsp; **Major:** Information Technology
-
-&emsp; **Class:** AWS082025
+&emsp; **Major:** Software Engineering
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 

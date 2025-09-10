@@ -9,17 +9,15 @@ chapter: false
 
 ### Thông tin sinh viên:
 
-&emsp; **Họ và tên:** Nguyễn Văn A
+&emsp; **Họ và tên:** Lê Sỹ Tuyền
 
 &emsp; **Số điện thoại:** 0989888999
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** hatospapal@gmail.com
 
-&emsp; **Trường:** Đại học Sư phạm Kỹ thuật TP.HCM
+&emsp; **Trường:** Đại học FPT Tp.HCM
 
-&emsp; **Ngành:** Công nghệ thông tin
-
-&emsp; **Lớp:** AWS082025
+&emsp; **Ngành:** Kỹ Thuật Phần Mềm
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 

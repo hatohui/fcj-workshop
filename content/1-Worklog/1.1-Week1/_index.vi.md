@@ -6,9 +6,27 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+### Ngày 1 Tóm tắt
+
+- **Ngày:** 08/09/2025 (Thứ Hai)
+- **Mục tiêu chính:**
+
+  - Tìm hiểu nhóm dịch vụ AWS: Compute, Storage, Networking, Database
+  - Tạo tài khoản AWS Free Tier
+  - Cài đặt & cấu hình AWS CLI
+  - Khởi tạo và kết nối EC2 instance
+
+- **Công việc đã làm:**
+
+  - Đã tạo tài khoản AWS và cấu hình CLI
+  - Tìm hiểu EC2 cơ bản, kết nối SSH
+  - Thực hành gắn EBS volume
+
+- **Kỹ năng học được:**
+  - Sử dụng AWS Console & CLI
+  - Kiến thức EC2, EBS, Elastic IP
+  - Kết nối SSH an toàn
+  - Ghi chú lệnh và cách xử lý lỗi
 
 ### Mục tiêu tuần 1:
 
